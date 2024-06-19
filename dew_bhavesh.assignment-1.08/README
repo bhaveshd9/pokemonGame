@@ -1,0 +1,10 @@
+bd0106
+COMS327 Assignment-1.08 Loading Pokemon
+
+Load pokemon in the game and ability to encounter them.
+10% probability of encouring pokemon in tall grass.
+
+Use "make all" to complie 
+Use "./poke327" to start
+
+

@@ -1,0 +1,10 @@
+bd0106
+COMS327 Assignment-1.05 User Interface
+
+User can move the player character (@), enter building, display trainer list
+Assigning color to the terrains and setting pokemon battle interface
+
+Use "make all" to complie 
+Use "./poke327" or "./poke327 --numtrainers <integers> to start 
+
+
