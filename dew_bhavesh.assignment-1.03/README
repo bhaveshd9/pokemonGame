@@ -1,0 +1,10 @@
+bd0106
+COMS327 Assignment-1.03 Path Finding
+
+Calculating shortest path for rival and hiker trainers using Dijkstra's algorithm
+Program displays the hiker and rival distance maps
+
+Use "make all" to complie 
+Use "./poke327" to start 
+
+

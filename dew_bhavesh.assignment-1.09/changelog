@@ -1,0 +1,19 @@
+2023/1/28 Start project. Got a empty board with borders to print in terminal.
+2023/1/29 Create path, Create Grass, pokeCenter and  pokeMart.
+2023/2/2  Working on generation of water, tree and rock in the terrain.
+2023/2/7 created the generate_path function and use of I/O
+2023/2/8 add probability function debug
+2023/2/15 using professor code for heap.c and heap.h
+2023/2/18 adding function for dijkstra algorithm
+2023/2/20 continued working and added rival and hiker trainer
+2023/2/22 completing and debugging code
+2023/2/27 using professor makefile and completing trainers support
+2023/3/1 continued working and debuging code
+2023/3/15 implementing PC and NPC commands 
+2023/3/23 working on ncurses to display trainer list, building and pokemon battle 
+2023/3/25 working on player character to move from map to map
+2023/3/30 converting the files to support C++ and debuging the code
+2023/4/6 parsing data from CSV files and printing out data
+2023/4/12 display pokemon on map and load pokemon for trainers and pc
+2023/4/20 adding user interface for pokemon battles, implementing other functionalities 
+2023/4/23 debugging error in the program

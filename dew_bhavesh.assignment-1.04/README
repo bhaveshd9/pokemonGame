@@ -1,0 +1,10 @@
+bd0106
+COMS327 Assignment-1.04 Player Character and Trainers
+
+Added the player character and other Pokemon trainers
+--numtrainers: that takes an integer count of the number of trainers to scatter around
+
+Use "make all" to complie 
+Use "./poke327" or "./poke327 --numtrainers <integers> to start 
+
+

@@ -1,0 +1,9 @@
+bd0106
+COMS327 Assignment-1.06 Moving to Neighboring Maps and Porting to C++
+
+Player Character can now traverse map to map through gates or fly using 'f' and the code is now ported to C++
+
+Use "make all" to complie 
+Use "./poke327" or "./poke327 --numtrainers <integers> to start 
+
+

@@ -1,0 +1,10 @@
+bd0106
+COMS327 Assignment-1.07 CSV parsing
+
+Data parses from 9 different CSV files (pokemon.csv, moves.csv, pokemon moves.csv, pokemon species.csv,
+experience.csv, type names.csv, pokemon stats.csv, stats.csv, pokemon types.csv) and prints out information
+
+Use "make all" to complie 
+Use "./poke327" or "./poke327 <data>" to start
+
+

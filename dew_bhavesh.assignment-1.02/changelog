@@ -1,0 +1,5 @@
+2023/1/28 Start project. Got a empty board with borders to print in terminal.
+2023/1/29 Create path, Create Grass, pokeCenter and  pokeMart.
+2023/2/2  Working on generation of water, tree and rock in the terrain.
+2023/2/7 created the generate_path function and use of I/O
+2023/2/8 add probability function debug

@@ -1,0 +1,10 @@
+bd0106
+COMS327 Assignment-1.02 Map to Map
+Move around a 401 by 401 array of maps
+A random map is generated when new location is visited 
+The exists of map align with maps around it
+
+use "make all" run the program
+
+Move in the map using inputs:- n,s,e,w,f,q
+Map begins in the center (0,0)

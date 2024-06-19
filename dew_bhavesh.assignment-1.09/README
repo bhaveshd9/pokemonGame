@@ -1,0 +1,11 @@
+bd0106
+COMS327 Assignment-1.09 Pokemon Battles
+
+Player character will now be able to battle other trainers and encounter wild pokemons.
+
+Note: There are few bugs in the assignment.
+
+Use "make all" to complie 
+Use "./poke327" to start
+
+
